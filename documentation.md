@@ -1,6 +1,6 @@
 [Linked List](lists/ Linked List.md)
 
-[a relative link](lists/Linked List.md)
+[a relative link](lists/LinkedList.md)
 
 [Linked List](http://example.com/ "Title") 
 
