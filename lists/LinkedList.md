@@ -1,12 +1,10 @@
 # Linked List
 
-&nbsp;
-
 ## Constructor / Destructor
 
 &nbsp;
 
-### `new_LinkedList()`
+#### `new_LinkedList()`
 
 Creates a new empty Linked List object.
 
@@ -18,7 +16,7 @@ Parameter |  Type  | Description
 
 &nbsp;
 
-### `destroy_LinkedList(linkedlist_t* list)`
+#### `destroy_LinkedList(linkedlist_t* list)`
 
 Frees the memory associated to a Linked List object.
 
@@ -34,7 +32,7 @@ list    | `linkedlist_t` | Linked List to be freed
 
 &nbsp;
 
-### `LL_append(linkedlist_t* list, int item)`
+#### `LL_append(linkedlist_t* list, int item)`
 
 Appends the specified item to the end of the Linked List
 
