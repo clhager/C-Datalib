@@ -1,4 +1,6 @@
-[Linked List](https://github.com/clhager/C-Datalib/blob/master/lists/Linked List.md)
+[Linked List](lists/Linked List.md)
+
+[Linked List](http://example.com/ "Title") 
 
 This is [an example](http://example.com/ "Title") inline link.
 
