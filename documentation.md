@@ -1,9 +1,7 @@
-[Linked List](lists/ Linked List.md)
+# Data Structures Library
 
-[a relative link](lists/LinkedList.md)
+## Lists
 
-[Linked List](http://example.com/ "Title") 
+[Linked List](lists/LinkedList.md)
 
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
+[Array List](lists/ArrayList.md) 
