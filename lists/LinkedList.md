@@ -141,15 +141,15 @@ list    | `linkedlist_t` | Linked List to print
 
 &nbsp;
 
-#### `LL_printrange(linkedlist_t* list, int a, int b)`
+#### `LL_printrange(linkedlist_t* list, int start, int end)`
 
-Prints out the list from index a to index b
+Prints out the list from index start to index end
 
 Parameter |  Type  | Description
 --------- | ---- | -----------
 list    | `linkedlist_t` | Linked List to print
-a | `int` | index to start printing from
-b | `int` | index to end printing at (exclusive)
+start | `int` | index to start printing from
+end | `int` | index to end printing at (exclusive)
 
 **Returns:** *None*
 
