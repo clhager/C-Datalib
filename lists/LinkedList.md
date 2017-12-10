@@ -141,6 +141,20 @@ list    | `linkedlist_t` | Linked List to print
 
 &nbsp;
 
+#### `LL_printrange(linkedlist_t* list, int a, int b)`
+
+Prints out the list from index a to index b
+
+Parameter |  Type  | Description
+--------- | ---- | -----------
+list    | `linkedlist_t` | Linked List to print
+a | `int` | index to start printing from
+b | `int` | index to end printing at (exclusive)
+
+**Returns:** *None*
+
+&nbsp;
+
 #### `LL_put(linkedlist_t* list, int index, int item)`
 
 Puts the specified item into the list at the specified index
